@@ -1,0 +1,9 @@
+{
+"label":"fifth",
+"position":5,
+"collapsed":true,
+"link":{
+    "type":"generated-index",
+    "description":"This is a custom description"
+}
+}
