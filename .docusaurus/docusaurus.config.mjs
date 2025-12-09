@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Atom Work/Okay",
+  "title": "Documentation",
   "tagline": "npm package",
   "favicon": "img/favicon.ico",
   "future": {
@@ -77,7 +77,7 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "Atom Site",
+      "title": "Documentation",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
