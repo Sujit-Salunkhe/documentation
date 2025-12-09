@@ -1,9 +1,9 @@
 {
-"label":"second",
+"label":"first",
 "position":1,
 "collapsed":true,
 "link":{
-    "type":"generated-index",
+     "type":"generated-index",
     "description":"This is a custom description"
 }
 }
