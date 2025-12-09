@@ -3,7 +3,7 @@ title: "Button"
 sidebar_position: 1
 ---
 
-## <span style={{color : "#3B82F6"}}>Basic usage</span>
+## Basic usage
 
 ```jsx title="Codeblocks
 export function ButtonExamples() {
@@ -129,59 +129,58 @@ export function ButtonExamples() {
     Adds data-disabled attribute for styling
     Ripple is suppressed
   ```
-  ```jsx
+### data-pressed
+```jsx
+  Optional state hint for “toggle” style buttons:
+    <Button
+    variant="secondary"
+    data-pressed={isOn ? "on" : "off"}
+    onClick={() => setIsOn((v) => !v)}
+    >
+      {isOn ? "On" : "Off"}
+    </Button>
 
-    data-pressed
-        Optional state hint for “toggle” style buttons:
+  You can use data-pressed in your own CSS if you want custom pressed styles later.
+```
+### Icon buttons
+```jsx
+  Use one of the icon* variants and pass an icon (SVG) as the child:
+  import { Button } from "@workokay/atom";
+  import { FiSettings } from "react-icons/fi";
 
-            <Button
-                variant="secondary"
-                data-pressed={isOn ? "on" : "off"}
-                onClick={() => setIsOn((v) => !v)}
-            >
-                {isOn ? "On" : "Off"}
-            </Button>
+  export function IconButtons() {
+    return (
+      <div style={{ display: "flex", gap: "0.75rem" }}>
+        <Button variant="icon" size="sm" aria-label="Settings">
+          <FiSettings />
+        </Button>
 
-        You can use data-pressed in your own CSS if you want custom pressed styles later.
+        <Button variant="iconSquare" size="md" aria-label="Settings">
+          <FiSettings />
+        </Button>
 
-Icon buttons
-    Use one of the icon* variants and pass an icon (SVG) as the child:
+        <Button variant="iconGhost" size="lg" aria-label="Settings">
+          <FiSettings />
+        </Button>
+      </div>
+      );
+    }
 
-        import { Button } from "@workokay/atom";
-        import { FiSettings } from "react-icons/fi";
-
-        export function IconButtons() {
-        return (
-            <div style={{ display: "flex", gap: "0.75rem" }}>
-            <Button variant="icon" size="sm" aria-label="Settings">
-                <FiSettings />
-            </Button>
-
-            <Button variant="iconSquare" size="md" aria-label="Settings">
-                <FiSettings />
-            </Button>
-
-            <Button variant="iconGhost" size="lg" aria-label="Settings">
-                <FiSettings />
-            </Button>
-            </div>
-        );
-        }
-
-    Size + variant combinations use compoundVariants to keep the button square and sized correctly.
-
-Theming behaviour
+  Size + variant combinations use compoundVariants to keep the button square and sized correctly.
+```
+### Theming behaviour
+```jsx
     The Button does not hard-code colors. It resolves its styles via utility classes pointing at tokens:
-        text-[var(--atom-button-fg)]
-        bg-[var(--atom-button-bg)]
-        hover:bg-[var(--atom-button-bg-hover)]
-        Similar for success / warning / danger / info
+      text-[var(--atom-button-fg)]
+      bg-[var(--atom-button-bg)]
+      hover:bg-[var(--atom-button-bg-hover)]
+      Similar for success / warning / danger / info
 
     These tokens are set by the active theme:
-        .atom-theme[data-theme="light"] {
-        --atom-button-bg: var(--atom-primary);
-        --atom-button-bg-hover: var(--atom-primary-800);
-        --atom-button-fg: var(--atom-primary-contrast);
+      .atom-theme[data-theme="light"] {
+      --atom-button-bg: var(--atom-primary);
+      --atom-button-bg-hover: var(--atom-primary-800);
+      --atom-button-fg: var(--atom-primary-contrast);
         /* ... */
         }
 

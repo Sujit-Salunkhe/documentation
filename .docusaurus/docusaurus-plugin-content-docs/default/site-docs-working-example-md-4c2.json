@@ -1,7 +1,7 @@
 {
   "id": "working_example",
-  "title": "working_example",
-  "description": "",
+  "title": "Working Example",
+  "description": "Example: minimal working app",
   "source": "@site/docs/working_example.md",
   "sourceDirName": ".",
   "slug": "/working_example",
@@ -11,10 +11,14 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/working_example.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Working Example",
+    "sidebar_position": 8
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "tokens",
-    "permalink": "/documentation/docs/tokens"
+    "title": "Button",
+    "permalink": "/documentation/docs/component/button"
   }
 }

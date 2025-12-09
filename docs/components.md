@@ -1,5 +1,6 @@
 ---
-title: components
+title: Component
+sidebar_position: 6 
 ---
 
 

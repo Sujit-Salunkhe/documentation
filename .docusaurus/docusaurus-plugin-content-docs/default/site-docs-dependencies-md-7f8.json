@@ -1,6 +1,6 @@
 {
   "id": "dependencies",
-  "title": "dependencies",
+  "title": "Dependencies",
   "description": "",
   "source": "@site/docs/dependencies.md",
   "sourceDirName": ".",
@@ -11,14 +11,18 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dependencies.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Dependencies",
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "components",
-    "permalink": "/documentation/docs/components"
+    "title": "Intro",
+    "permalink": "/documentation/docs/intro"
   },
   "next": {
-    "title": "globalsetup",
+    "title": "GlobalSetUp",
     "permalink": "/documentation/docs/globalsetup"
   }
 }

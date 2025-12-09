@@ -1,7 +1,7 @@
 {
   "id": "tokens",
-  "title": "tokens",
-  "description": "",
+  "title": "Tokens",
+  "description": "Tokens (high-level)",
   "source": "@site/docs/tokens.md",
   "sourceDirName": ".",
   "slug": "/tokens",
@@ -11,14 +11,18 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tokens.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Tokens",
+    "sidebar_position": 5
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "themes",
+    "title": "Themes",
     "permalink": "/documentation/docs/themes"
   },
   "next": {
-    "title": "working_example",
-    "permalink": "/documentation/docs/working_example"
+    "title": "Component",
+    "permalink": "/documentation/docs/components"
   }
 }

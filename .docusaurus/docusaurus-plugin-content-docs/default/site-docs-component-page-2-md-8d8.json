@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "page-2",
-    "permalink": "/documentation/docs/component/third/page-2"
+    "title": "Button",
+    "permalink": "/documentation/docs/component/button"
   },
   "next": {
     "title": "secondary",
-    "permalink": "/documentation/docs/category/secondary-1"
+    "permalink": "/documentation/docs/category/secondary"
   }
 }

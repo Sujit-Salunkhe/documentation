@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "component",
-    "permalink": "/documentation/docs/category/component"
+    "title": "components",
+    "permalink": "/documentation/docs/category/components"
   },
   "next": {
-    "title": "secondary",
-    "permalink": "/documentation/docs/category/secondary"
+    "title": "Working Example",
+    "permalink": "/documentation/docs/working_example"
   }
 }
