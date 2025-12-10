@@ -35,7 +35,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Powered by React@Vite & Tailwind CSS',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>``
+      <>
       Focus on building, not configuring.
       A lightweight UI library powered by React, Vite, and Tailwind CSS. 
       so you can ship polished interfaces faster.
