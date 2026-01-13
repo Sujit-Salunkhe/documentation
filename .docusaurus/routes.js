@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/documentation/__docusaurus/debug',
-    component: ComponentCreator('/documentation/__docusaurus/debug', 'c3b'),
-    exact: true
-  },
-  {
-    path: '/documentation/__docusaurus/debug/config',
-    component: ComponentCreator('/documentation/__docusaurus/debug/config', 'e83'),
-    exact: true
-  },
-  {
-    path: '/documentation/__docusaurus/debug/content',
-    component: ComponentCreator('/documentation/__docusaurus/debug/content', '8fc'),
-    exact: true
-  },
-  {
-    path: '/documentation/__docusaurus/debug/globalData',
-    component: ComponentCreator('/documentation/__docusaurus/debug/globalData', 'f7c'),
-    exact: true
-  },
-  {
-    path: '/documentation/__docusaurus/debug/metadata',
-    component: ComponentCreator('/documentation/__docusaurus/debug/metadata', 'dc0'),
-    exact: true
-  },
-  {
-    path: '/documentation/__docusaurus/debug/registry',
-    component: ComponentCreator('/documentation/__docusaurus/debug/registry', '352'),
-    exact: true
-  },
-  {
-    path: '/documentation/__docusaurus/debug/routes',
-    component: ComponentCreator('/documentation/__docusaurus/debug/routes', '7c8'),
-    exact: true
-  },
-  {
     path: '/documentation/blog',
     component: ComponentCreator('/documentation/blog', '978'),
     exact: true
@@ -114,19 +79,25 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', '7e4'),
+    component: ComponentCreator('/documentation/docs', 'f9c'),
     routes: [
       {
         path: '/documentation/docs',
-        component: ComponentCreator('/documentation/docs', '909'),
+        component: ComponentCreator('/documentation/docs', 'c6f'),
         routes: [
           {
             path: '/documentation/docs',
-            component: ComponentCreator('/documentation/docs', 'ec2'),
+            component: ComponentCreator('/documentation/docs', '08f'),
             routes: [
               {
                 path: '/documentation/docs/category/components',
                 component: ComponentCreator('/documentation/docs/category/components', 'ae9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/docs/component/avatar',
+                component: ComponentCreator('/documentation/docs/component/avatar', '677'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -137,14 +108,56 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/documentation/docs/component/calandar',
+                component: ComponentCreator('/documentation/docs/component/calandar', '518'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/docs/component/datatable',
+                component: ComponentCreator('/documentation/docs/component/datatable', 'a34'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/docs/component/dialogbox',
+                component: ComponentCreator('/documentation/docs/component/dialogbox', '0bf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/documentation/docs/component/drawer',
                 component: ComponentCreator('/documentation/docs/component/drawer', 'c46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/documentation/docs/component/dropdown',
+                component: ComponentCreator('/documentation/docs/component/dropdown', 'ba8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/documentation/docs/component/progressbar',
                 component: ComponentCreator('/documentation/docs/component/progressbar', '9e2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/docs/component/skeleton',
+                component: ComponentCreator('/documentation/docs/component/skeleton', 'd78'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/docs/component/tabs',
+                component: ComponentCreator('/documentation/docs/component/tabs', 'f22'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentation/docs/component/text',
+                component: ComponentCreator('/documentation/docs/component/text', '7b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
