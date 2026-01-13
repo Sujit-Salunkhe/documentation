@@ -1,0 +1,28 @@
+{
+  "id": "components",
+  "title": "Component",
+  "description": "More components (Input, Card, etc.) will be added as the library grows.",
+  "source": "@site/docs/components.md",
+  "sourceDirName": ".",
+  "slug": "/components",
+  "permalink": "/documentation/docs/components",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/components.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Component",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tokens",
+    "permalink": "/documentation/docs/tokens"
+  },
+  "next": {
+    "title": "Components",
+    "permalink": "/documentation/docs/category/components"
+  }
+}

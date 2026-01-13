@@ -1,0 +1,24 @@
+{
+  "id": "component/secondary/page-1",
+  "title": "page-1",
+  "description": "",
+  "source": "@site/docs/component/secondary/page-1.md",
+  "sourceDirName": "component/secondary",
+  "slug": "/component/secondary/page-1",
+  "permalink": "/documentation/docs/component/secondary/page-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/component/secondary/page-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "page-3",
+    "permalink": "/documentation/docs/component/secondary/third/page-3"
+  },
+  "next": {
+    "title": "page-2",
+    "permalink": "/documentation/docs/component/secondary/page-2"
+  }
+}

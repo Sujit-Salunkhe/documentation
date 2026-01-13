@@ -1,0 +1,24 @@
+{
+  "id": "fifth/third/first/page-1",
+  "title": "page-1",
+  "description": "",
+  "source": "@site/docs/fifth/third/first/page-1.md",
+  "sourceDirName": "fifth/third/first",
+  "slug": "/fifth/third/first/page-1",
+  "permalink": "/documentation/docs/fifth/third/first/page-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/fifth/third/first/page-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "first",
+    "permalink": "/documentation/docs/category/first-8"
+  },
+  "next": {
+    "title": "page-2",
+    "permalink": "/documentation/docs/fifth/third/first/page-2"
+  }
+}

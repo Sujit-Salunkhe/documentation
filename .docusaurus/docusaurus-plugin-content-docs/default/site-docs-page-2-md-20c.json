@@ -1,0 +1,20 @@
+{
+  "id": "page-2",
+  "title": "page-2",
+  "description": "",
+  "source": "@site/docs/page-2.md",
+  "sourceDirName": ".",
+  "slug": "/page-2",
+  "permalink": "/docs/page-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/page-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "components",
+    "permalink": "/docs/components"
+  }
+}

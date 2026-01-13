@@ -1,0 +1,20 @@
+{
+  "id": "secondary/page",
+  "title": "page",
+  "description": "",
+  "source": "@site/docs/secondary/page.md",
+  "sourceDirName": "secondary",
+  "slug": "/secondary/page",
+  "permalink": "/docs/secondary/page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/secondary/page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "page-3",
+    "permalink": "/docs/main/third/page-3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "globalsetup",
+  "title": "GlobalSetUp",
+  "description": "In your app entry (e.g. main.tsx in a Vite React app):",
+  "source": "@site/docs/globalsetup.md",
+  "sourceDirName": ".",
+  "slug": "/globalsetup",
+  "permalink": "/documentation/docs/globalsetup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/globalsetup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "GlobalSetUp",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependencies",
+    "permalink": "/documentation/docs/dependencies"
+  },
+  "next": {
+    "title": "Themes",
+    "permalink": "/documentation/docs/themes"
+  }
+}

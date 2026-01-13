@@ -1,0 +1,123 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/documentation/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/documentation/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "component/avatar",
+              "path": "/documentation/docs/component/avatar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/button",
+              "path": "/documentation/docs/component/button",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/calandar",
+              "path": "/documentation/docs/component/calandar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/datatable",
+              "path": "/documentation/docs/component/datatable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/dialogbox",
+              "path": "/documentation/docs/component/dialogbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/drawer",
+              "path": "/documentation/docs/component/drawer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/dropdown",
+              "path": "/documentation/docs/component/dropdown",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/progressbar",
+              "path": "/documentation/docs/component/progressbar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/skeleton",
+              "path": "/documentation/docs/component/skeleton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/tabs",
+              "path": "/documentation/docs/component/tabs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/text",
+              "path": "/documentation/docs/component/text",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "components",
+              "path": "/documentation/docs/components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dependencies",
+              "path": "/documentation/docs/dependencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "globalsetup",
+              "path": "/documentation/docs/globalsetup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/documentation/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "themes",
+              "path": "/documentation/docs/themes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokens",
+              "path": "/documentation/docs/tokens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "working_example",
+              "path": "/documentation/docs/working_example",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/components",
+              "path": "/documentation/docs/category/components",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/documentation/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

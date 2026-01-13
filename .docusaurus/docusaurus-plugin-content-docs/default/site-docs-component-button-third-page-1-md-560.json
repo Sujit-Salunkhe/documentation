@@ -1,0 +1,24 @@
+{
+  "id": "component/button/third/page-1",
+  "title": "page-1",
+  "description": "",
+  "source": "@site/docs/component/button/third/page-1.md",
+  "sourceDirName": "component/button/third",
+  "slug": "/component/button/third/page-1",
+  "permalink": "/docs/component/button/third/page-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/component/button/third/page-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "third",
+    "permalink": "/docs/category/third"
+  },
+  "next": {
+    "title": "page-2",
+    "permalink": "/docs/component/button/third/page-2"
+  }
+}

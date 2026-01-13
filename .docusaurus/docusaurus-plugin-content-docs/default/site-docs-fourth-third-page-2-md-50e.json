@@ -1,0 +1,24 @@
+{
+  "id": "fourth/third/page-2",
+  "title": "page-2",
+  "description": "",
+  "source": "@site/docs/fourth/third/page-2.md",
+  "sourceDirName": "fourth/third",
+  "slug": "/fourth/third/page-2",
+  "permalink": "/documentation/docs/fourth/third/page-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/fourth/third/page-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "page-1",
+    "permalink": "/documentation/docs/fourth/third/page-1"
+  },
+  "next": {
+    "title": "page-1",
+    "permalink": "/documentation/docs/fourth/page-1"
+  }
+}

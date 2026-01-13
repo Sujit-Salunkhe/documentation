@@ -1,0 +1,24 @@
+{
+  "id": "component/buttom",
+  "title": "buttom",
+  "description": "",
+  "source": "@site/docs/component/buttom.md",
+  "sourceDirName": "component",
+  "slug": "/component/buttom",
+  "permalink": "/docs/component/buttom",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/component/buttom.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "page-2",
+    "permalink": "/docs/component/third/page-2"
+  },
+  "next": {
+    "title": "page-2",
+    "permalink": "/docs/component/page-2"
+  }
+}

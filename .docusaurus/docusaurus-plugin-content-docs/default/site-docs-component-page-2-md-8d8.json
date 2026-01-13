@@ -1,0 +1,24 @@
+{
+  "id": "component/page-2",
+  "title": "page-2",
+  "description": "",
+  "source": "@site/docs/component/page-2.md",
+  "sourceDirName": "component",
+  "slug": "/component/page-2",
+  "permalink": "/documentation/docs/component/page-2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/component/page-2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Button",
+    "permalink": "/documentation/docs/component/button"
+  },
+  "next": {
+    "title": "secondary",
+    "permalink": "/documentation/docs/category/secondary"
+  }
+}

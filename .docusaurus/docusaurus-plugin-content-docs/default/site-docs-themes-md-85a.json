@@ -1,0 +1,28 @@
+{
+  "id": "themes",
+  "title": "Themes",
+  "description": "",
+  "source": "@site/docs/themes.md",
+  "sourceDirName": ".",
+  "slug": "/themes",
+  "permalink": "/documentation/docs/themes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/themes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Themes",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GlobalSetUp",
+    "permalink": "/documentation/docs/globalsetup"
+  },
+  "next": {
+    "title": "Tokens",
+    "permalink": "/documentation/docs/tokens"
+  }
+}
