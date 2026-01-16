@@ -1,5 +1,5 @@
 ---
-title: "DataTable"
+title: "Data Table"
 sidebar_position: 11
 ---
 

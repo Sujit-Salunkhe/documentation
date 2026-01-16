@@ -1,5 +1,5 @@
 ---
-title: "ProgressBar"
+title: "Progress Bar"
 sidebar_position: 2
 ---
 

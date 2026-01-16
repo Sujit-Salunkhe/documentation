@@ -16,23 +16,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "component/badge",
+              "path": "/documentation/docs/component/badge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "component/button",
               "path": "/documentation/docs/component/button",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "component/calandar",
-              "path": "/documentation/docs/component/calandar",
+              "id": "component/calendar",
+              "path": "/documentation/docs/component/calendar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "component/datatable",
-              "path": "/documentation/docs/component/datatable",
+              "id": "component/card",
+              "path": "/documentation/docs/component/card",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "component/dialogbox",
-              "path": "/documentation/docs/component/dialogbox",
+              "id": "component/checkbox",
+              "path": "/documentation/docs/component/checkbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/contentCard",
+              "path": "/documentation/docs/component/contentCard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/dataTable",
+              "path": "/documentation/docs/component/dataTable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/dialog",
+              "path": "/documentation/docs/component/dialog",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -46,13 +66,63 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "component/heading",
+              "path": "/documentation/docs/component/heading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/input",
+              "path": "/documentation/docs/component/input",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/inputNumber",
+              "path": "/documentation/docs/component/inputNumber",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/paper",
+              "path": "/documentation/docs/component/paper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/popover",
+              "path": "/documentation/docs/component/popover",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "component/progressbar",
               "path": "/documentation/docs/component/progressbar",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "component/radio",
+              "path": "/documentation/docs/component/radio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "component/skeleton",
               "path": "/documentation/docs/component/skeleton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/statCardA",
+              "path": "/documentation/docs/component/statCardA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/statCardB",
+              "path": "/documentation/docs/component/statCardB",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/statCardC",
+              "path": "/documentation/docs/component/statCardC",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/switch",
+              "path": "/documentation/docs/component/switch",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -63,6 +133,11 @@
             {
               "id": "component/text",
               "path": "/documentation/docs/component/text",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "component/textArea",
+              "path": "/documentation/docs/component/textArea",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -404,4 +404,3 @@ The dropdown uses atom theme tokens and avoids hard-coded colors:
 
 - Use onError to log to monitoring or analytics.
 
-```jsx title=codeblocks
